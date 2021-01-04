@@ -1,0 +1,7 @@
+C:\Users\murza\Documents\Visual Studio 2019\git-course\gitstrtyoutube\gitstrtyoutube\bin\Debug\gitstrtyoutube.exe.config
+C:\Users\murza\Documents\Visual Studio 2019\git-course\gitstrtyoutube\gitstrtyoutube\bin\Debug\gitstrtyoutube.exe
+C:\Users\murza\Documents\Visual Studio 2019\git-course\gitstrtyoutube\gitstrtyoutube\bin\Debug\gitstrtyoutube.pdb
+C:\Users\murza\Documents\Visual Studio 2019\git-course\gitstrtyoutube\gitstrtyoutube\obj\Debug\gitstrtyoutube.csprojAssemblyReference.cache
+C:\Users\murza\Documents\Visual Studio 2019\git-course\gitstrtyoutube\gitstrtyoutube\obj\Debug\gitstrtyoutube.csproj.CoreCompileInputs.cache
+C:\Users\murza\Documents\Visual Studio 2019\git-course\gitstrtyoutube\gitstrtyoutube\obj\Debug\gitstrtyoutube.exe
+C:\Users\murza\Documents\Visual Studio 2019\git-course\gitstrtyoutube\gitstrtyoutube\obj\Debug\gitstrtyoutube.pdb
